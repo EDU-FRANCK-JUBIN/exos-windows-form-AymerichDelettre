@@ -1,0 +1,10 @@
+C:\Users\aymer\source\repos\DemoApplication\DemoApplication\bin\Debug\DemoApplication.exe.config
+C:\Users\aymer\source\repos\DemoApplication\DemoApplication\bin\Debug\DemoApplication.exe
+C:\Users\aymer\source\repos\DemoApplication\DemoApplication\bin\Debug\DemoApplication.pdb
+C:\Users\aymer\source\repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.csprojResolveAssemblyReference.cache
+C:\Users\aymer\source\repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.Form1.resources
+C:\Users\aymer\source\repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.Properties.Resources.resources
+C:\Users\aymer\source\repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.csproj.GenerateResource.Cache
+C:\Users\aymer\source\repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.csproj.CoreCompileInputs.cache
+C:\Users\aymer\source\repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.exe
+C:\Users\aymer\source\repos\DemoApplication\DemoApplication\obj\Debug\DemoApplication.pdb
